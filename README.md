@@ -36,3 +36,6 @@ Use skill and strategy to battle to the top in competitive Ranked Mode or to win
 
 CHOICE AND COMPLEXITY
 Whether in gameplay, events, controls, or loadouts, CALL OF DUTY®: MOBILE offers complexity and depth in an ever-changing experience.
+
+
+
